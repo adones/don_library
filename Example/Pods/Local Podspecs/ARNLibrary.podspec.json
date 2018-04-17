@@ -1,0 +1,22 @@
+{
+  "name": "ARNLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of ARNLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/adones/ARNLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "adones": "adones.fuentes@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/adones/ARNLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ARNLibrary/Classes/**/*"
+}

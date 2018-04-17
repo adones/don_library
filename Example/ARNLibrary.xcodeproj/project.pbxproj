@@ -30,9 +30,9 @@
 /* Begin PBXFileReference section */
 		32C9BC212FE17DB7A7427482 /* Pods-ARNLibrary_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARNLibrary_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARNLibrary_Tests/Pods-ARNLibrary_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		338017FDADED1FCBF7E0FEC9 /* Pods-ARNLibrary_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ARNLibrary_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ARNLibrary_Example/Pods-ARNLibrary_Example.release.xcconfig"; sourceTree = "<group>"; };
-		363EFFBCB9C751267B020EBE /* ARNLibrary.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ARNLibrary.podspec; path = ../ARNLibrary.podspec; sourceTree = "<group>"; };
-		4905A1EDEC182E6EC16495B7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		4F2F63286015BA8BA6A36418 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		363EFFBCB9C751267B020EBE /* ARNLibrary.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ARNLibrary.podspec; path = ../ARNLibrary.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		4905A1EDEC182E6EC16495B7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4F2F63286015BA8BA6A36418 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		53BEEAB96ABFA61512950ACF /* Pods_ARNLibrary_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ARNLibrary_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* ARNLibrary_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARNLibrary_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };

@@ -1,0 +1,6 @@
+framework module ARNLibrary {
+  umbrella header "ARNLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
